@@ -36,28 +36,13 @@ function draw() {
   // text(mouseX+","+mouseY,mouseX,mouseY);
 
   //to assign all the texts
-   textSize(24);
+   textSize(15);
    fill("white");
    text("INSTRUCTIONS:",20,30);
-
-   textSize(24);
-   fill("white");
    text("Up arrow = Brushing",20,60);
-
-   textSize(24);
-   fill("white");
    text("Down arrow = Gymming",20,90);
-
-   textSize(24);
-   fill("white");
    text("left arrow = Eating",20,120);
-
-   textSize(24);
-   fill("white");
    text("Right arrow = Bathing",20,150);
-
-   textSize(24);
-   fill("white");
    text("m key = Moving",20,180);
 
   drawSprites();
