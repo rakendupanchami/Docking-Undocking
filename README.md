@@ -1,2 +1,2 @@
-# Docking-Undocking
-It is a game based on astronaut daily routine created in javascript in VSC.
+# p5.play-boilerplate
+Boiler plate for p5.play
